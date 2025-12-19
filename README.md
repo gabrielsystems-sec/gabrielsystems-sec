@@ -22,7 +22,8 @@ Documentando laboratórios práticos para aplicar conceitos de redes e seguranç
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 * **Programação e Automação:** Lógica de programação e desenvolvimento em Python (Mundos 1, 2 e 3).
-* **Sistemas Operacionais:** Administração de instâncias Debian-based (Ubuntu) e RHEL-based (Rocky Linux 9).
+* **Sistemas Operacionais:** * **Nativo (Host):** Administração de Kernel Linux (Ubuntu 24.04 LTS) operando diretamente sobre o hardware.
+* **Virtualizado (Guest):** Gestão de instâncias Debian-based (Ubuntu Server) e RHEL-based (Rocky Linux 9.7).
 * **Redes:** Configuração de interfaces, endereçamento IP e troubleshooting de conectividade.
 
 > *"O código só brilha se a infraestrutura por trás for sólida, segura e eficiente."*
