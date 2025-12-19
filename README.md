@@ -12,6 +12,19 @@ Acredito que a segurança não é um produto, mas um processo que começa na bas
 ### 🛠️ No que estou trabalhando agora?
 Documentando laboratórios práticos para aplicar conceitos de redes e segurança diretamente no terminal Linux.
 
+### 🛠️ Tecnologias e Ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+* **Sistemas Operacionais:** Administração de instâncias Debian-based (Ubuntu) e RHEL-based (Rocky Linux 9).
+* **Redes:** Configuração de interfaces, endereçamento IP e troubleshooting de conectividade.
+* **Segurança:** Gestão de usuários, permissões de diretórios e acesso remoto via SSH.
+
 > *"O código só brilha se a infraestrutura por trás for sólida, segura e eficiente."*
 
 ---
