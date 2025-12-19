@@ -1,32 +1,28 @@
 # 🛡️ Gabriel Rodrigues | gabrielsystems-sec
 
-Estudante de **Engenharia de Software (4º Semestre)** focado em Infraestrutura, Cloud e Segurança.
+Estudante de **Engenharia de Software (4º Semestre)** iniciando jornada em Infraestrutura e Segurança.
 
 ### 🚀 Sobre mim
-Acredito que a segurança não é um produto, mas um processo que começa na base do sistema operacional. Atualmente, dedico meus estudos a construir ambientes sólidos e seguros.
+Atualmente focado em aprender como os sistemas operacionais funcionam desde a base. Acredito que entender o Linux é o primeiro passo para construir soluções seguras.
 
-- **Foco Atual:** Administração de sistemas Linux (Rocky Linux 9 / Ubuntu).
-- **Base Técnica:** Conhecimentos práticos em **Arquitetura de Redes** (Modelo OSI, TCP/IP, Endereçamento e Roteamento).
-- **Objetivo:** Dominar o ecossistema de Cloud & Infraestrutura sob a ótica da Engenharia de Software.
+- **O que estou estudando:** Fundamentos de Linux e Redes.
+- **Prática Atual:** Montando laboratórios para testar comandos e configurações diretamente no **Kernel Linux** nativo.
+- **Objetivo:** Evoluir meu conhecimento técnico através de prática constante e documentação.
 
 ### 🛠️ No que estou trabalhando agora?
-Documentando laboratórios práticos para aplicar conceitos de redes e segurança diretamente no terminal Linux.
+Documentando meu progresso inicial no repositório: **[Linux Fundamentals Lab](https://github.com/gabrielsystems-sec/linux-lab-fundamentals)**.
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias em Estudo
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 
-* **Programação e Automação:** Lógica de programação e desenvolvimento em Python (Mundos 1, 2 e 3).
-* **Sistemas Operacionais:** * **Nativo (Host):** Administração de Kernel Linux (Ubuntu 24.04 LTS) operando diretamente sobre o hardware.
-* **Virtualizado (Guest):** Gestão de instâncias Debian-based (Ubuntu Server) e RHEL-based (Rocky Linux 9.7).
-* **Redes:** Configuração de interfaces, endereçamento IP e troubleshooting de conectividade.
+* **Lógica e Python:** Conhecimento através do [Curso em Vídeo](https://www.cursoemvideo.com/) (Python 3 - 120 Horas).
+* **Sistemas Operacionais:**
+    * **Nativo (Host):** Administração do sistema Ubuntu rodando diretamente no hardware (Kernel Nativo).
+    * **Virtualizado (VMs):** Criação e gestão de instâncias Rocky Linux e Ubuntu Server para testes de infraestrutura.
+* **Redes:** Primeiros passos com endereçamento IP, interfaces e acesso via SSH entre máquina física e virtual.
 
-> *"O código só brilha se a infraestrutura por trás for sólida, segura e eficiente."*
+> *"Construindo uma base sólida, um comando por vez."*
 
 ---
 
