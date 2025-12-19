@@ -15,18 +15,20 @@ Documentando laboratórios práticos para aplicar conceitos de redes e seguranç
 ### 🛠️ Tecnologias e Ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox&logoColor=white)
 
+* **Programação e Automação:** Lógica de programação e desenvolvimento em Python (Mundos 1, 2 e 3).
 * **Sistemas Operacionais:** Administração de instâncias Debian-based (Ubuntu) e RHEL-based (Rocky Linux 9).
 * **Redes:** Configuração de interfaces, endereçamento IP e troubleshooting de conectividade.
-* **Segurança:** Gestão de usuários, permissões de diretórios e acesso remoto via SSH.
 
 > *"O código só brilha se a infraestrutura por trás for sólida, segura e eficiente."*
 
 ---
 
 ### 🌐 Conecte-se comigo
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielrodriguesgam@gmail.com)
