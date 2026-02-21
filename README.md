@@ -10,7 +10,7 @@ Estou desenvolvendo uma série estratégica de **5 Repositórios Temáticos** pa
 
 1.  **[Repo 01: Linux Foundations & Git Mastery](https://github.com/gabrielsystems-sec/linux-lab-fundamentals)** *Provisionamento de Labs, CLI, Gestão de Kernel e Workflows profissionais de Git.* ✅ **Concluído**
 
-2.  **[Repo 02: Identity, Access & Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** *Gestão de identidades (IAM), Hardening de sistemas, Firewall-cmd e conformidade de segurança.* 🚧 **Em andamento**
+2.  **[Repo 02: Identity, Access & Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** *Gestão de identidades (IAM), Hardening de sistemas, Firewall-cmd e conformidade de segurança.* 🚧 ✅ **Concluído**
 
 3.  **[Repo 03: System Health, Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** *Telemetria em tempo real, gestão avançada de logs, monitoramento e otimização de performance.* 🚧 **Iniciado**
 
