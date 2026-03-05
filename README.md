@@ -12,9 +12,9 @@ Estou desenvolvendo uma série estratégica de **5 Repositórios Temáticos** pa
 
 2.  **[Repo 02: Identity, Access & Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** *Gestão de identidades (IAM), Hardening de sistemas, Firewall-cmd e conformidade de segurança.* ✅ **Concluído**
 
-3.  **[Repo 03: System Health, Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** *Telemetria em tempo real, gestão avançada de logs, monitoramento e otimização de performance.* 🚧 **Iniciado**
+3.  **[Repo 03: System Health, Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** *Telemetria em tempo real, gestão avançada de logs, monitoramento e otimização de performance.* ✅ **Concluído**
 
-4.  **Repo 04: Backbone Infrastructure & Networking** *Armazenamento escalável (LVM/RAID), arquitetura de redes complexas e infraestrutura como código.* ⏳ **Planejado**
+4.  **Repo 04: Backbone Infrastructure & Networking** *Armazenamento escalável (LVM/RAID), arquitetura de redes complexas e infraestrutura como código.* 🚧 **Iniciado**
 
 5.  **Repo 05: The Enterprise Stack** *Containers (Docker), orquestração, automação de serviços empresariais e alta disponibilidade.* ⏳ **Planejado**
 
