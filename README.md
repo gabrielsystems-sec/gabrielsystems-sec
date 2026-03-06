@@ -8,15 +8,15 @@ Atualmente estou no **4º semestre de Engenharia de Software** e focado em me to
 
 Estou desenvolvendo uma série estratégica de **5 Repositórios Temáticos** para documentar minha evolução técnica e domínio de infraestrutura, baseada em uma especialização intensiva de 656 aulas:
 
-1.  **[Repo 01: Linux Foundations & Git Mastery](https://github.com/gabrielsystems-sec/linux-lab-fundamentals)** *Provisionamento de Labs, CLI, Gestão de Kernel e Workflows profissionais de Git.* ✅ **Concluído**
+1.  **[Repo 01: Linux Foundations & Git Mastery](https://github.com/gabrielsystems-sec/linux-lab-fundamentals)** *Provisionamento de Labs, CLI, Gestão de Kernel e Workflows profissionais de Git.* ✅ **Stable**
 
-2.  **[Repo 02: Identity, Access & Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** *Gestão de identidades (IAM), Hardening de sistemas, Firewall-cmd e conformidade de segurança.* ✅ **Concluído**
+2.  **[Repo 02: Identity, Access & Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** *Gestão de identidades (IAM), Hardening de sistemas, Firewall-cmd e conformidade de segurança.* ✅ **Stable**
 
-3.  **[Repo 03: System Health, Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** *Telemetria em tempo real, gestão avançada de logs, monitoramento e otimização de performance.* ✅ **Concluído**
+3.  **[Repo 03: System Health, Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** *Telemetria em tempo real, gestão avançada de logs, monitoramento e otimização de performance.* ✅ **Production Ready**
 
-4.  **Repo 04: Backbone Infrastructure & Networking** *Armazenamento escalável (LVM/RAID), arquitetura de redes complexas e infraestrutura como código.* 🚧 **Iniciado**
+4.  **Repo 04: Backbone Infrastructure & Networking** *Armazenamento escalável (LVM/RAID), arquitetura de redes complexas e infraestrutura como código.* 🚧 **Under Development**
 
-5.  **Repo 05: The Enterprise Stack** *Containers (Docker), orquestração, automação de serviços empresariais e alta disponibilidade.* ⏳ **Planejado**
+5.  **Repo 05: The Enterprise Stack** *Containers (Docker), orquestração, automação de serviços empresariais e alta disponibilidade.* ⏳ **Planned**
 
 ---
 
