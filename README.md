@@ -14,7 +14,7 @@ Estou desenvolvendo uma série estratégica de **5 Repositórios Temáticos** pa
 
 3.  **[Repo 03: System Health, Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** *Telemetria em tempo real, gestão avançada de logs, monitoramento e otimização de performance.* ✅ **Production Ready**
 
-4.  **Repo 04: Backbone Infrastructure & Networking** *Armazenamento escalável (LVM/RAID), arquitetura de redes complexas e infraestrutura como código.* 🚧 **Under Development**
+4.  **Repo 04: [Backbone Infrastructure & Networking](https://github.com/gabrielsystems-sec/backbone-infra-networking)** *Armazenamento escalável (LVM/RAID), arquitetura de redes complexas e infraestrutura como código.* 🚧 **Under Development**
 
 5.  **Repo 05: The Enterprise Stack** *Containers (Docker), orquestração, automação de serviços empresariais e alta disponibilidade.* ⏳ **Planned**
 
