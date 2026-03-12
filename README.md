@@ -14,9 +14,9 @@ Estou desenvolvendo uma série estratégica de **5 Repositórios Temáticos** pa
 
 3.  **[Repo 03: System Health, Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** *Telemetria em tempo real, gestão avançada de logs, monitoramento e otimização de performance.* ✅ **Production Ready**
 
-4.  **[Repo 04: Backbone Infrastructure & Networking](https://github.com/gabrielsystems-sec/backbone-infra-networking)** *Armazenamento escalável (LVM/RAID), arquitetura de redes complexas e infraestrutura como código.* 🚧 **Under Development**
+4.  **[Repo 04: Backbone Infrastructure & Networking](https://github.com/gabrielsystems-sec/backbone-infra-networking)** *Armazenamento escalável (LVM/RAID), arquitetura de redes complexas e SRE Troubleshooting.* ✅ **Production Ready**
 
-5.  **Repo 05: The Enterprise Stack** *Containers (Docker), orquestração, automação de serviços empresariais e alta disponibilidade.* ⏳ **Planned**
+5.  **[Repo 05: Enterprise Edge Security & Defense](https://github.com/gabrielsystems-sec/enterprise-edge-security)** *Firewalls avançados, IDPS (Fail2Ban), VPN Gateways e proteção de perímetro (Blue Team focus).* 🚧 **Under Development**
 
 ---
 
@@ -25,10 +25,18 @@ Estou desenvolvendo uma série estratégica de **5 Repositórios Temáticos** pa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 * **Sistemas Operacionais (Linux Deep Dive):** Domínio técnico em ambientes Debian-based (Ubuntu) e RHEL-based (Rocky Linux), com foco em administração de servidores empresariais.
+* **SRE & Resiliência:** Especialista em automação de troubleshooting e recuperação de desastres (RAID 10/Snapshots de LVM).
 * **Networking & Architecture:** Sólida base em Arquitetura de Redes, compreendendo o Modelo OSI, protocolos críticos (TCP/UDP, DNS, HTTP/S) e roteamento avançado.
-* **Infrastructure as Code & Automation:** Desenvolvimento de soluções de automação via Shell Script para otimização de tarefas operacionais e provisionamento de ambientes.
-* **Hardening & Compliance:** Implementação de políticas de segurança, gestão de privilégios (Sudoers/IAM) e auditoria de sistemas de arquivos.
+* **Hardening & Compliance:** Implementação de políticas de segurança, gestão de privilégios (Sudoers/IAM) e proteção de bootloader (GRUB PBKDF2).
 * **Virtualização & Observabilidade:** Gestão de instâncias empresariais via VirtualBox e foco em telemetria para garantir a saúde e performance dos ativos de TI.
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsystems-sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsystems-sec&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
