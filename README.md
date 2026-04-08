@@ -35,8 +35,7 @@ Estou desenvolvendo uma série estratégica de **5 Repositórios Temáticos** pa
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsystems-sec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_bust=1" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsystems-sec&layout=compact&langs_count=7&theme=tokyonight&cache_bust=1" alt="Linguagens mais usadas" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsystems-sec&theme=tokyonight&area=true&hide_border=true&cache_bust=1" />
 </p>
 
 ---
