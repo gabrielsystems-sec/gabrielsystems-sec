@@ -1,27 +1,27 @@
-# Olá, eu sou o Gabriel! 👋
+# Olá, eu sou o Gabriel!
 ### SRE & Defensive Security Engineer (Blue Team Focus)
 
-> Construindo infraestruturas resilientes e aplicando camadas de defesa em profundidade.
+Construindo infraestruturas resilientes e aplicando camadas de defesa em profundidade.
 
 ---
 
-### 🛠️ Tech Stack & Hardening
+### Tech Stack & Hardening
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Sistemas** | Rocky Linux (VirtualBox), Ubuntu Server (Máquina) |
-| **Blue Team** | **LUKS**, SELinux, Firewalld, Fail2Ban, Tripwire, Lynis |
-| **Infra & Cloud** | K3s (Kubernetes), Docker, Terraform (AWS), RAID/LVM2 |
-| **Bancos & Cache** | Redis (High Perf), Oracle, MariaDB (AES), MongoDB |
+| Sistemas | Rocky Linux (VirtualBox), Ubuntu Server (Máquina) |
+| Blue Team | LUKS, SELinux, Firewalld, Fail2Ban, Tripwire, Lynis |
+| Infra & Cloud | K3s (Kubernetes), Docker, Terraform (AWS), RAID/LVM2 |
+| Bancos & Cache | Redis (High Perf), Oracle, MariaDB (AES), MongoDB |
 
 ---
 
-### 📂 Portfólio de Engenharia (The 5-Repo Journey)
+### Portfólio de Engenharia (The 5-Repo Journey)
 
-* **[Repo 1: Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals)** - Automação de diagnóstico via Bash.
-* **[Repo 2: Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** - Hardening, LUKS e FIM (Tripwire).
-* **[Repo 3: Observability](https://github.com/gabrielsystems-sec/system-observability-hub)** - Stack Prometheus/Grafana e Tuning.
-* **[Repo 4: Backbone Infra](https://github.com/gabrielsystems-sec/backbone-infra-networking)** - Resiliência com RAID/LVM e Redes.
-* **[Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security)** - K8s, IaC e Redis Performance (~86k RPS).
+* [Repo 1: Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals) - Automação de diagnóstico e saúde via Bash.
+* [Repo 2: Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab) - Hardening, LUKS e FIM (Tripwire).
+* [Repo 3: Observability](https://github.com/gabrielsystems-sec/system-observability-hub) - Stack Prometheus/Grafana e Tuning.
+* [Repo 4: Backbone Infra](https://github.com/gabrielsystems-sec/backbone-infra-networking) - Resiliência com RAID/LVM e Redes.
+* [Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security) - K8s, IaC e Redis Performance (~86k RPS).
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### Contato & Objetivo
 * 📍 Fortaleza/CE (Remoto e Presencial)
-* Buscando: **Estágio ou Junior em SRE / DevOps / Blue Team**
+* 🚀 Buscando: **Estágio ou Junior em SRE / DevOps / Blue Team**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-rodrigues1221/" target="_blank">
@@ -51,5 +51,5 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsystems-sec&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Git Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsystems-sec&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Git Stats" />
 </p>
