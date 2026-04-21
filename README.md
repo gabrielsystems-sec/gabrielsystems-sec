@@ -1,11 +1,11 @@
-# Olá, eu sou o Gabriel!
+# Olá, eu sou o Gabriel Rodrigues! 👋
 ### SRE & Defensive Security Engineer (Blue Team Focus)
 
 Construindo infraestruturas resilientes e aplicando camadas de defesa em profundidade.
 
 ---
 
-### Tech Stack & Hardening
+### 🛠️ Tech Stack & Hardening
 | Categoria | Tecnologias |
 | :--- | :--- |
 | Sistemas | Rocky Linux (VirtualBox), Ubuntu Server (Máquina) |
@@ -15,7 +15,7 @@ Construindo infraestruturas resilientes e aplicando camadas de defesa em profund
 
 ---
 
-### Portfólio de Engenharia (The 5-Repo Journey)
+### 📂 Portfólio de Engenharia (The 5-Repo Journey)
 
 * [Repo 1: Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals) - Automação de diagnóstico e saúde via Bash.
 * [Repo 2: Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab) - Hardening, LUKS e FIM (Tripwire).
