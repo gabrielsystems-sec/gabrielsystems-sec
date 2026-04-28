@@ -22,7 +22,7 @@ Construindo infraestruturas resilientes e aplicando camadas de defesa em profund
 * [Repo 3: Observability](https://github.com/gabrielsystems-sec/system-observability-hub) - Stack Prometheus/Grafana e Tuning.
 * [Repo 4: Backbone Infra](https://github.com/gabrielsystems-sec/backbone-infra-networking) - Resiliência com RAID/LVM e Redes.
 * [Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security) - K3s, IaC e Redis Performance (~86k RPS).
-* * [Repo 6: SOC & THREAT](https://github.com/gabrielsystems-sec/soc-threat-lab) - Operações com Wazuh SIEM/XDR, Threat Hunting e Incident Response.
+* [Repo 6: SOC & THREAT](https://github.com/gabrielsystems-sec/soc-threat-lab) - Operações com Wazuh SIEM/XDR, Threat Hunting e Incident Response.
 
 ---
 
