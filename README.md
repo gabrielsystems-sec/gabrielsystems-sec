@@ -15,13 +15,14 @@ Construindo infraestruturas resilientes e aplicando camadas de defesa em profund
 
 ---
 
-### 📂 Portfólio de Engenharia (The 5-Repo Journey)
+### 📂 Portfólio de Engenharia (The 6-Repo Journey)
 
 * [Repo 1: Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals) - Automação de diagnóstico e saúde via Bash.
 * [Repo 2: Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab) - Hardening, LUKS e FIM (Tripwire).
 * [Repo 3: Observability](https://github.com/gabrielsystems-sec/system-observability-hub) - Stack Prometheus/Grafana e Tuning.
 * [Repo 4: Backbone Infra](https://github.com/gabrielsystems-sec/backbone-infra-networking) - Resiliência com RAID/LVM e Redes.
-* [Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security) - K8s, IaC e Redis Performance (~86k RPS).
+* [Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security) - K3s, IaC e Redis Performance (~86k RPS).
+* * [Repo 6: SOC & THREAT](https://github.com/gabrielsystems-sec/soc-threat-lab) - Operações com Wazuh SIEM/XDR, Threat Hunting e Incident Response.
 
 ---
 
