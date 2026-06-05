@@ -1,11 +1,8 @@
-# Olá, eu sou o Gabriel Rodrigues! 👋
-### SRE & Defensive Security Engineer (Blue Team Focus)
-
-Construindo infraestruturas resilientes e aplicando camadas de defesa em profundidade.
-
+Software Engineering Student
+Focused on Linux Infrastructure, SRE & Defensive Security
 ---
 
-### 🛠️ Tech Stack & Hardening
+### Tech Stack & Hardening
 | Categoria | Tecnologias |
 | :--- | :--- |
 | Sistemas | Rocky Linux (VirtualBox), Ubuntu Server (Máquina) |
@@ -21,9 +18,8 @@ Construindo infraestruturas resilientes e aplicando camadas de defesa em profund
 * [Repo 2: Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab) - Hardening, LUKS e FIM (Tripwire).
 * [Repo 3: Observability](https://github.com/gabrielsystems-sec/system-observability-hub) - Stack Prometheus/Grafana e Tuning.
 * [Repo 4: Backbone Infra](https://github.com/gabrielsystems-sec/backbone-infra-networking) - Resiliência com RAID/LVM e Redes.
-* [Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security) - K3s, IaC e Redis Performance (~86k RPS).
-* [Repo 6: SOC & THREAT](https://github.com/gabrielsystems-sec/soc-threat-lab) - Operações com Wazuh SIEM/XDR, Threat Hunting e Incident Response.
-
+* [Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security) - K3s, Terraform (AWS), Infrastructure as Code e Redis.
+* [Repo 6: SOC & THREAT](https://github.com/gabrielsystems-sec/soc-threat-lab) - Operações com Wazuh SIEM/XDR, Threat Intelligence e Active Response.
 ---
 
 ### Technical Highlights (Golden Evidence)
@@ -39,8 +35,7 @@ Construindo infraestruturas resilientes e aplicando camadas de defesa em profund
 
 ### Contato & Objetivo
 * 📍 Fortaleza/CE (Remoto e Presencial)
-* 🚀 Buscando: **Estágio ou Junior em SRE / DevOps / Blue Team**
-
+🚀 Buscando: Estágio ou Junior em SRE / Cloud Infrastructure / SevOps / Blue Team ...
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-rodrigues1221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
