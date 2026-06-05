@@ -1,7 +1,8 @@
-Software Engineering Student
----
+### Software Engineering Student
+
 Focused on Linux Infrastructure, SRE & Defensive Security
 ---
+
 ### Tech Stack & Hardening
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -10,17 +11,15 @@ Focused on Linux Infrastructure, SRE & Defensive Security
 | Infra & Cloud | K3s (Kubernetes), Docker, Terraform (AWS), RAID/LVM2 |
 | Bancos & Cache | Redis (High Perf), Oracle, MariaDB (AES), MongoDB |
 
----
-### 📂 Portfólio de Engenharia (The 6-Repo Journey)
-
+### 📂 Portfólio de Engenharia
 * [Repo 1: Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals) - Automação de diagnóstico e saúde via Bash.
 * [Repo 2: Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab) - Hardening, LUKS e FIM (Tripwire).
 * [Repo 3: Observability](https://github.com/gabrielsystems-sec/system-observability-hub) - Stack Prometheus/Grafana e Tuning.
 * [Repo 4: Backbone Infra](https://github.com/gabrielsystems-sec/backbone-infra-networking) - Resiliência com RAID/LVM e Redes.
 * [Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security) - K3s, Terraform (AWS), Infrastructure as Code e Redis.
 * [Repo 6: SOC & THREAT](https://github.com/gabrielsystems-sec/soc-threat-lab) - Operações com Wazuh SIEM/XDR, Threat Intelligence e Active Response.
----
-### Technical Highlights (Golden Evidence)
+
+### Technical Highlights
 *Provas de conceito em Segurança, Performance e Observabilidade.*
 
 <p align="center">
