@@ -1,6 +1,6 @@
 Software Engineering Student
-Focused on Linux Infrastructure, SRE & Defensive Security
 ---
+Focused on Linux Infrastructure, SRE & Defensive Security
 
 ### Tech Stack & Hardening
 | Categoria | Tecnologias |
@@ -11,7 +11,6 @@ Focused on Linux Infrastructure, SRE & Defensive Security
 | Bancos & Cache | Redis (High Perf), Oracle, MariaDB (AES), MongoDB |
 
 ---
-
 ### 📂 Portfólio de Engenharia (The 6-Repo Journey)
 
 * [Repo 1: Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals) - Automação de diagnóstico e saúde via Bash.
@@ -21,7 +20,6 @@ Focused on Linux Infrastructure, SRE & Defensive Security
 * [Repo 5: Cloud-Native](https://github.com/gabrielsystems-sec/enterprise-edge-security) - K3s, Terraform (AWS), Infrastructure as Code e Redis.
 * [Repo 6: SOC & THREAT](https://github.com/gabrielsystems-sec/soc-threat-lab) - Operações com Wazuh SIEM/XDR, Threat Intelligence e Active Response.
 ---
-
 ### Technical Highlights (Golden Evidence)
 *Provas de conceito em Segurança, Performance e Observabilidade.*
 
@@ -32,7 +30,6 @@ Focused on Linux Infrastructure, SRE & Defensive Security
 </p>
 
 ---
-
 ### Contato & Objetivo
 * 📍 Fortaleza/CE (Remoto e Presencial)
 🚀 Buscando: Estágio ou Junior em SRE / Cloud Infrastructure / SevOps / Blue Team ...
