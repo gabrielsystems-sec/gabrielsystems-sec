@@ -1,7 +1,7 @@
 Software Engineering Student
 ---
 Focused on Linux Infrastructure, SRE & Defensive Security
-
+---
 ### Tech Stack & Hardening
 | Categoria | Tecnologias |
 | :--- | :--- |
