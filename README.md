@@ -21,9 +21,9 @@
 * [Repo 6: SOC & THREAT](https://github.com/gabrielsystems-sec/soc-threat-lab) — SIEM/XDR com Wazuh.
 
 #### Especialização AWS (Escola da Nuvem)
-* [Repo 7: Foundations](https://github.com/gabrielsystems-sec/aws-cloud-foundations-hardened) — Hardening em Cloud.
-* [Repo 8: Governance](https://github.com/gabrielsystems-sec/aws-automation-governance) — IaC & Compliance.
-* [Repo 9: Security Ops](https://github.com/gabrielsystems-sec/aws-security-operations-soc) — Detecção de ameaças & SOC.
+* [Repo 7: Foundations](https://github.com/gabrielsystems-sec/aws-cloud-foundations-hardened) — Hardening em Cloud. (Em progresso)
+* [Repo 8: Governance](https://github.com/gabrielsystems-sec/aws-automation-governance) — IaC & Compliance. (Planejado)
+* [Repo 9: Security Ops](https://github.com/gabrielsystems-sec/aws-security-operations-soc) — Detecção de ameaças & SOC. (Planejado)
 
 ---
 
