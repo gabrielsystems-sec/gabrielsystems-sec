@@ -28,7 +28,7 @@
 ---
 
 ### Educação & Formação
-* **AWS re/Start (Escola da Nuvem):** Programa intensivo de 300h (5 meses) em arquitetura AWS.
+* **AWS re/Start (Escola da Nuvem):** Programa intensivo de 300h (5 meses) em Fundamentos de Computação em Nuvem.
 * **Foco pessoal:** Concluir as certificações AWS Cloud Practitioner e AWS Solutions Architect Associate.
   
 * **Formação Complementar:** 
