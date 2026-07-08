@@ -1,4 +1,4 @@
-# Gabriel Macêdo
+# Gabriel Rodrigues
 ### Estudante de Engenharia de Software | Focado em Infraestrutura Linux, SRE & Cloud Security
 
 ---
