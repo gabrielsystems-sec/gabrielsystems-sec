@@ -1,30 +1,34 @@
-# Gabriel Rodrigues
-
 ### Estudante de Engenharia de Software | Infraestrutura, Operações & Cloud
 
-Construo laboratórios próprios para investigar falhas, entender sistemas e documentar soluções em infraestrutura, segurança e cloud.
+Construo laboratórios práticos para investigar falhas, entender sistemas e documentar soluções em infraestrutura, automação, observabilidade e segurança.
 
 > **Investigar → Entender → Resolver**
 
 ---
 
-### Projetos
+## Portfólio Técnico
 
-**[Linux Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals)** · Linux, Bash e Troubleshooting  
-**[Identity & Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** · Hardening, IAM e Segurança  
-**[Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** · Prometheus, Grafana e Performance  
-**[Backbone Infrastructure](https://github.com/gabrielsystems-sec/backbone-infra-networking)** · Redes, Storage e Resiliência  
-**[Enterprise Infrastructure](https://github.com/gabrielsystems-sec/enterprise-edge-security)** · Serviços, Automação e Orquestração  
-**[SOC & Defensive Security](https://github.com/gabrielsystems-sec/soc-threat-lab)** · Wazuh, Detecção e Resposta  
-**[AWS Cloud Infrastructure](https://github.com/gabrielsystems-sec/aws-cloud-foundations-hardened)** · Cloud, IAM e Resiliência
+- **[Linux Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals)** — Administração Linux, Bash e troubleshooting
+- **[Identity & Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** — IAM, hardening e segurança defensiva
+- **[Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** — Monitoramento, métricas, Grafana e performance
+- **[Backend Infrastructure](https://github.com/gabrielsystems-sec/backbone-infra-networking)** — Redes, storage, serviços e resiliência
+- **[Enterprise Infrastructure](https://github.com/gabrielsystems-sec/enterprise-edge-security)** — Automação, orquestração e operações
+- **[SOC & Defensive Security](https://github.com/gabrielsystems-sec/soc-threat-lab)** — SIEM, detecção, threat intelligence e resposta
+- **[AWS Cloud Infrastructure](https://github.com/gabrielsystems-sec/aws-cloud-foundations-hardened)** — Cloud, IAM, alta disponibilidade e automação
 
 ---
 
-🎓 Engenharia de Software | 5/8
+Minha abordagem é focada no processo técnico completo:
 
-☁️ Formação AWS re/Start — Escola da Nuvem 
-| Em preparação para Cloud Practitioner e AWS Solutions Architect – Associate
+**Problema → Investigação → Troubleshooting → Causa Raiz → Correção → Validação**
 
- Buscando oportunidade de Estágio ou Junior em Infraestrutura, Cloud, SRE ou Segurança
+Os repositórios documentam falhas reais de laboratório, análise de logs, problemas de permissões, conectividade, configuração e automação — não apenas o ambiente funcionando.
+
+---
+
+🎓 **Engenharia de Software | 5/8**  
+☁️ **AWS re/Start — Escola da Nuvem**  
+
+ - **Buscando minha primeira oportunidade em Infraestrutura, Cloud, SRE ou Segurança** -
 
 [LinkedIn](https://www.linkedin.com/in/gabrielrodriguesinfra/) · [Email](mailto:gabrielrodriguesgam@gmail.com)
