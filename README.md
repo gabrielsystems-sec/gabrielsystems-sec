@@ -18,11 +18,11 @@ Construo laboratórios práticos para investigar falhas, entender sistemas e doc
 
 ---
 
-Minha abordagem é focada no processo técnico completo:
+## Minha abordagem é focada no processo técnico completo:
 
 **Problema → Investigação → Troubleshooting → Causa Raiz → Correção → Validação**
 
-Os repositórios documentam falhas reais de laboratório, análise de logs, problemas de permissões, conectividade, configuração e automação — não apenas o ambiente funcionando.
+Os repositórios documentam falhas reais de laboratório, análise de logs, problemas de permissões, conectividade, configuração e automação, não apenas o ambiente funcionando.
 
 ---
 
