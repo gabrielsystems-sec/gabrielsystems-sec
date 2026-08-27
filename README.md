@@ -10,13 +10,13 @@ Construo laboratórios próprios para investigar falhas, entender sistemas e doc
 
 ### Projetos
 
-**[Linux Foundations](link)** · Linux, Bash e Troubleshooting  
-**[Identity & Cybersecurity](link)** · Hardening, IAM e Segurança  
-**[Observability & Tuning](link)** · Prometheus, Grafana e Performance  
-**[Backbone Infrastructure](link)** · Redes, Storage e Resiliência  
-**[Enterprise Infrastructure](link)** · Serviços, Automação e Orquestração  
-**[SOC & Defensive Security](link)** · Wazuh, Detecção e Resposta  
-**[AWS Cloud Infrastructure](link)** · Cloud, IAM e Resiliência
+**[Linux Foundations](https://github.com/gabrielsystems-sec/linux-lab-fundamentals)** · Linux, Bash e Troubleshooting  
+**[Identity & Cybersecurity](https://github.com/gabrielsystems-sec/linux-identity-security-lab)** · Hardening, IAM e Segurança  
+**[Observability & Tuning](https://github.com/gabrielsystems-sec/system-observability-hub)** · Prometheus, Grafana e Performance  
+**[Backbone Infrastructure](https://github.com/gabrielsystems-sec/backbone-infra-networking)** · Redes, Storage e Resiliência  
+**[Enterprise Infrastructure](https://github.com/gabrielsystems-sec/enterprise-edge-security)** · Serviços, Automação e Orquestração  
+**[SOC & Defensive Security](https://github.com/gabrielsystems-sec/soc-threat-lab)** · Wazuh, Detecção e Resposta  
+**[AWS Cloud Infrastructure](https://github.com/gabrielsystems-sec/aws-cloud-foundations-hardened)** · Cloud, IAM e Resiliência
 
 ---
 
