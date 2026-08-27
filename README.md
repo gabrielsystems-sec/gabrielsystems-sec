@@ -29,6 +29,6 @@ Os repositórios documentam falhas reais de laboratório, análise de logs, prob
 🎓 **Engenharia de Software | 5/8**  
 ☁️ **AWS re/Start — Escola da Nuvem**  
 
- - **Buscando minha primeira oportunidade em Infraestrutura, Cloud, SRE ou Segurança** -
+   **Buscando minha primeira oportunidade em Infraestrutura, Cloud, SRE ou Segurança** 
 
 [LinkedIn](https://www.linkedin.com/in/gabrielrodriguesinfra/) · [Email](mailto:gabrielrodriguesgam@gmail.com)
