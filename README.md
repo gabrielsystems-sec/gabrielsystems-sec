@@ -27,7 +27,7 @@ Os repositórios documentam falhas reais de laboratório, análise de logs, prob
 ---
 
 🎓 **Engenharia de Software | 5/8**  
-☁️ **AWS re/Start — Escola da Nuvem | 300h - Preparação para certificações AWS Practitioner e AWS Associate**  
+☁️ **1x AWS**
 
    **Buscando minha primeira oportunidade em Infraestrutura, Cloud, SRE ou Segurança** 
 
