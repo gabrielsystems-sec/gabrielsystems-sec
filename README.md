@@ -27,7 +27,7 @@ Os repositórios documentam falhas reais de laboratório, análise de logs, prob
 ---
 
 🎓 **Engenharia de Software | 5/8**  
-☁️ **1x AWS | AWS Certifield Cloud Practitioner**
+☁️ **1x AWS | AWS Certified Cloud Practitioner**
 
    **Buscando minha primeira oportunidade em Infraestrutura, Cloud, SRE ou Segurança** 
 
